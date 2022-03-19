@@ -1,0 +1,104 @@
+{
+  "material-icon-theme.folders.color": "#ff3838",
+  "code-runner.runInTerminal": true,
+  "code-runner.saveFileBeforeRun": true,
+  "editor.wordWrap": "on",
+  "editor.mouseWheelZoom": true,
+  "bracket-pair-colorizer-2.colors": [
+    // "Gold",
+    // "Orchid",
+    // "LightSkyBlue"
+    "#00ff1a",
+    "#ff00ff",
+    "#c9d400",
+    "#fc0f56"
+  ],
+  "material-icon-theme.folders.associations": {
+    "C": "Cobol",
+    "C++": "Base",
+    "Data_Structure_&_Algorithms": "Database",
+    "Web_Development": "Global",
+    "Mobile_Development": "Mobile",
+    "React": "React-components",
+    "React-components": "React-components",
+    "NextJS": "React-components",
+    "NodeJS": "Node",
+    "Git_&_Github": "Github",
+    "Practice": "Custom",
+    "Pictures": "images",
+    "Picture": "images",
+    "Tutorial": "Class",
+    "Java": "Less",
+    "Kotlin": "Mobile",
+    "Machine_Learning": "Core",
+    "Roadmap": "Routes",
+    "Wordpress": "Wordpress",
+    "ExpressJS": "Node",
+    "MongoDB": "Database",
+    "MERN": "Stack",
+    "Exercise": "Tasks",
+    "Statistics": "Storybook",
+    "Firebase": "Firebase",
+    "Redux": "Redux-actions",
+    "Redux-actions": "Redux-actions",
+    "Redux-reducer": "Redux-reducer",
+    "Redux-store": "Redux-store",
+    "Aritficial_Intelligence": "Core",
+    "AI": "Core",
+    "React-Native": "React-components",
+    "Dart": "Less",
+    "Visual_Studio_Code": "vscode",
+    "Django": "resolver",
+    "Blockchain": "webpack",
+    "Nginx": "ngrx-store"
+  },
+  // "C_Cpp.updateChannel": "Insiders",
+  "editor.formatOnSave": true,
+  "screencastMode.verticalOffset": 0,
+  "screencastMode.fontSize": 35,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "files.exclude": {
+    "**/.classpath": true,
+    "**/.project": true,
+    "**/.settings": true,
+    "**/.factorypath": true
+  },
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python"
+  },
+  "[cpp]": {
+    "editor.defaultFormatter": "ms-vscode.cpptools"
+  },
+  "[dart]": {
+    "editor.defaultFormatter": "Dart-Code.dart-code"
+  },
+  "editor.fontLigatures": true,
+  "dart.previewFlutterUiGuides": true,
+  "editor.inlineSuggest.enabled": true,
+  "workbench.colorTheme": "One Dark Pro Darker",
+  "html.validate.styles": false,
+  "bracket-pair-colorizer-2.depreciation-notice": false,
+  "[markdown]": {
+    "editor.defaultFormatter": "yzhang.markdown-all-in-one"
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell",
+  "terminal.integrated.fontFamily": "MesloLGS NF",
+  "liveSassCompile.settings.formats": [
+    {
+      "format": "expanded",
+      "extensionName": ".css",
+      "savePath": "/dist/css"
+    }
+  ],
+  "workbench.editor.wrapTabs": true,
+  "github.copilot.enable": {
+    "*": false,
+    "yaml": false,
+    "plaintext": false,
+    "markdown": false
+  },
+  "workbench.iconTheme": "material-icon-theme",
+  "[solidity]": {
+    "editor.defaultFormatter": "JuanBlanco.solidity"
+  }
+}
