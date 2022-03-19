@@ -1,0 +1,4 @@
+*) To make a default terminal:
+    -> Press `CTRL+Shift+P` OR `F1`
+    -> search for `Terminal: select default profile`
+    -> select the terminal as your choice to make it a default terminal
