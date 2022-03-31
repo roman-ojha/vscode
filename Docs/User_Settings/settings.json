@@ -4,21 +4,12 @@
   "code-runner.saveFileBeforeRun": true,
   "editor.wordWrap": "on",
   "editor.mouseWheelZoom": true,
-  "bracket-pair-colorizer-2.colors": [
-    // "Gold",
-    // "Orchid",
-    // "LightSkyBlue"
-    "#00ff1a",
-    "#ff00ff",
-    "#c9d400",
-    "#fc0f56"
-  ],
   "material-icon-theme.folders.associations": {
     "C": "Cobol",
     "C++": "Base",
     "Data_Structure_&_Algorithms": "Database",
     "Web_Development": "Global",
-    "Mobile_Development": "Mobile",
+    "App_Development": "Mobile",
     "React": "React-components",
     "React-components": "React-components",
     "NextJS": "React-components",
@@ -49,10 +40,9 @@
     "Dart": "Less",
     "Visual_Studio_Code": "vscode",
     "Django": "resolver",
-    "Blockchain": "webpack",
+    "Blockchain_Development": "Container",
     "Nginx": "ngrx-store"
   },
-  // "C_Cpp.updateChannel": "Insiders",
   "editor.formatOnSave": true,
   "screencastMode.verticalOffset": 0,
   "screencastMode.fontSize": 35,
@@ -77,7 +67,6 @@
   "editor.inlineSuggest.enabled": true,
   "workbench.colorTheme": "One Dark Pro Darker",
   "html.validate.styles": false,
-  "bracket-pair-colorizer-2.depreciation-notice": false,
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
@@ -91,14 +80,10 @@
     }
   ],
   "workbench.editor.wrapTabs": true,
-  "github.copilot.enable": {
-    "*": false,
-    "yaml": false,
-    "plaintext": false,
-    "markdown": false
-  },
   "workbench.iconTheme": "material-icon-theme",
   "[solidity]": {
     "editor.defaultFormatter": "JuanBlanco.solidity"
-  }
+  },
+  "editor.bracketPairColorization.enabled": true,
+  "editor.guides.bracketPairs": "active"
 }
