@@ -1,4 +1,9 @@
 *) To make a default terminal:
     -> Press `CTRL+Shift+P` OR `F1`
+    -> 'ctrl + p'
+    -> 'ctrl + Shift + `' (to open new terminal)
+    -> 'ctrl + pageup' (to open above terminal)
+    -> 'ctrl + pagedown' (to open below terminal)
+    -> 'ctrl + f4' (to close editor file)
     -> search for `Terminal: select default profile`
     -> select the terminal as your choice to make it a default terminal
