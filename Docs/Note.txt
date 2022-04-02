@@ -7,3 +7,5 @@
     -> 'ctrl + f4' (to close editor file)
     -> search for `Terminal: select default profile`
     -> select the terminal as your choice to make it a default terminal
+    -> 'ctrl + b' (open and close sidebar)
+    -> 'ctrl + 0' (focus sidebar)
