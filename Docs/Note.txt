@@ -9,3 +9,8 @@
     -> select the terminal as your choice to make it a default terminal
     -> 'ctrl + b' (open and close sidebar)
     -> 'ctrl + 0' (focus sidebar)
+
+*) CLI:
+    -> code . (open current directory)
+    -> code -r . (open current directory in same window with fresh new state)
+    -> code -a . (open current directory in same vscode state)
