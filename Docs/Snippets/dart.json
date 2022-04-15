@@ -1,0 +1,37 @@
+{
+  "flutterTut": {
+    "prefix": "flutterTut",
+    "body": [
+      "import 'package:flutter/material.dart';",
+      "$2",
+      "class $1 extends StatelessWidget {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return MaterialApp(",
+      "      debugShowCheckedModeBanner: false,",
+      "      home: MyHomePage(),",
+      "    );",
+      "  }",
+      "}",
+      "$2",
+      "class MyHomePage extends StatefulWidget {",
+      "  const MyHomePage({Key? key}) : super(key: key);",
+      "$2",
+      "  @override",
+      "  _MyHomePageState createState() => _MyHomePageState();",
+      "}",
+      "$2",
+      "class _MyHomePageState extends State<MyHomePage> {",
+      "  @override",
+      "  Widget build(BuildContext context) {",
+      "    return Scaffold(",
+      "      appBar: AppBar(",
+      "        title: Text('$1'),",
+      "      ),",
+      "      body: Container(),",
+      "    );",
+      "  }",
+      "}"
+    ]
+  }
+}
