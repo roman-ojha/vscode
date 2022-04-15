@@ -1,0 +1,37 @@
+{
+  "1px solid red": {
+    "prefix": "b-red",
+    "body": ["border:1px solid red;"],
+    "description": "border: 1px solid red"
+  },
+  "1px solid blue": {
+    "prefix": "b-blue",
+    "body": ["border:1px solid blue;"],
+    "description": "border: 1px solid blue"
+  },
+  "1px solid purple": {
+    "prefix": "b-purple",
+    "body": ["border:1px solid purple;"],
+    "description": "border: 1px solid blue"
+  },
+  "1px solid green": {
+    "prefix": "b-green",
+    "body": ["border:1px solid green;"],
+    "description": "border: 1px solid blue"
+  },
+  "flex-center-row": {
+    "prefix": "flex center row",
+    "body": ["display:flex;", "justify-content:center;", "align-items:center"],
+    "description": "flex-center"
+  },
+  "flex-start-row": {
+    "prefix": "flex start row",
+    "body": ["display:flex;", "justify-content:start;", "align-items:center"],
+    "description": "flex-start-row"
+  },
+  "flex-end-row": {
+    "prefix": "flex end row",
+    "body": ["display:;", "justify-content:end;", "align-items:center"],
+    "description": "flex-end-row"
+  }
+}
