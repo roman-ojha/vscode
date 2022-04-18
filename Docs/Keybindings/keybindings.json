@@ -35,5 +35,25 @@
   {
     "key": "ctrl+shift+alt+f",
     "command": "explorer.newFolder"
+  },
+  {
+    "key": "ctrl+shift+alt+h",
+    "command": "editor.action.showDefinitionPreviewHover"
+  },
+  {
+    "key": "shift+j",
+    "command": "workbench.action.terminal.resizePaneDown"
+  },
+  {
+    "key": "shift+h",
+    "command": "workbench.action.terminal.resizePaneLeft"
+  },
+  {
+    "key": "shift+l",
+    "command": "workbench.action.terminal.resizePaneRight"
+  },
+  {
+    "key": "shift+k",
+    "command": "workbench.action.terminal.resizePaneUp"
   }
 ]
