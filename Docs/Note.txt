@@ -9,6 +9,7 @@
     -> select the terminal as your choice to make it a default terminal
     -> 'ctrl + b' (open and close sidebar)
     -> 'ctrl + 0' (focus sidebar)
+    -> 'shift + f10' (to click mouse right click)
 
 *) CLI:
     -> code . (open current directory)
