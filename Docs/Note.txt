@@ -1,4 +1,4 @@
-*) To make a default terminal:
+*) Default Shortcut key:
     -> Press `CTRL+Shift+P` OR `F1`
     -> 'ctrl + p'
     -> 'ctrl + Shift + `' (to open new terminal)
@@ -10,6 +10,8 @@
     -> 'ctrl + b' (open and close sidebar)
     -> 'ctrl + 0' (focus sidebar)
     -> 'shift + f10' (to click mouse right click)
+    -> 'ctrl + alt + pageup' (to scroll up terminal)
+    -> 'ctrl + alt + pagedown' (to scroll down terminal)
 
 *) CLI:
     -> code . (open current directory)
