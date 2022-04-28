@@ -1,0 +1,21 @@
+*) Default Shortcut key:
+    -> Press `CTRL+Shift+P` OR `F1`
+    -> 'ctrl + p'
+    -> 'ctrl + f4' (to close editor file)
+    -> 'shift + f10' (to click mouse right click)
+    *) Terminal
+        -> search for `Terminal: select default profile`
+        -> select the terminal as your choice to make it a default terminal
+        -> 'ctrl + Shift + `' (to open new terminal)
+        -> 'ctrl + pageup' (to open above terminal)
+        -> 'ctrl + pagedown' (to open below terminal)
+        -> 'ctrl + alt + pageup' (to scroll up terminal)
+        -> 'ctrl + alt + pagedown' (to scroll down terminal)
+    *) SideBar
+        -> 'ctrl + 0' (focus sidebar)
+        -> 'ctrl + b' (open and close sidebar)
+        -> 'ctrl + shift + e' (switch to file explorer sidebar)
+        -> 'ctrl + shift + f' (switch to search sidebar)
+        -> 'ctrl + shift + g' (switch to source control sidebar)
+        -> 'ctrl + shift + d' (switch to debug sidebar)
+        -> 'ctrl + shift + x' (switch to extension sidebar)
