@@ -1,0 +1,5 @@
+-> $TM_FILENAME (to get name of the file with extension)
+-> $TM_FILENAME_BASE (to only get file name)
+-> $TM_LINE_NUMBER (to get line number)
+-> $TM_FILEPATH (to get full path)
+-> $TM_DIRECTORY (to get directory of file)

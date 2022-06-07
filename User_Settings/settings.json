@@ -1,7 +1,5 @@
 {
   "material-icon-theme.folders.color": "#ff3838",
-  "code-runner.runInTerminal": true,
-  "code-runner.saveFileBeforeRun": true,
   "editor.wordWrap": "on",
   "editor.mouseWheelZoom": true,
   "material-icon-theme.folders.associations": {
@@ -15,6 +13,7 @@
     "NextJS": "React-components",
     "NodeJS": "Node",
     "Git_&_Github": "Github",
+    "Github": "Github",
     "Practice": "Custom",
     "Pictures": "images",
     "Picture": "images",
@@ -41,7 +40,12 @@
     "Visual_Studio_Code": "vscode",
     "Django": "resolver",
     "Blockchain_Development": "Container",
-    "Nginx": "ngrx-store"
+    "Nginx": "ngrx-store",
+    "UX_&_UI": "vm",
+    "bloc": "container",
+    "cubit": "circleci",
+    "Notes": "docs",
+    "presentations": "animation"
   },
   "editor.formatOnSave": true,
   "screencastMode.verticalOffset": 0,
@@ -65,25 +69,21 @@
   "editor.fontLigatures": true,
   "dart.previewFlutterUiGuides": true,
   "editor.inlineSuggest.enabled": true,
-  "workbench.colorTheme": "One Dark Pro Darker",
+  "workbench.colorTheme": "Dracula",
   "html.validate.styles": false,
   "[markdown]": {
     "editor.defaultFormatter": "yzhang.markdown-all-in-one"
   },
   "terminal.integrated.defaultProfile.windows": "PowerShell",
   "terminal.integrated.fontFamily": "MesloLGS NF",
-  "liveSassCompile.settings.formats": [
-    {
-      "format": "expanded",
-      "extensionName": ".css",
-      "savePath": "/dist/css"
-    }
-  ],
   "workbench.editor.wrapTabs": true,
   "workbench.iconTheme": "material-icon-theme",
   "[solidity]": {
     "editor.defaultFormatter": "JuanBlanco.solidity"
   },
   "editor.bracketPairColorization.enabled": true,
-  "editor.guides.bracketPairs": "active"
+  "editor.guides.bracketPairs": "active",
+  "remote.SSH.remotePlatform": {
+    "digitaloceantesting": "linux"
+  }
 }
