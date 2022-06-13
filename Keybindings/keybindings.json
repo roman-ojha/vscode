@@ -17,7 +17,7 @@
     "command": "workbench.action.focusActiveEditorGroup"
   },
   {
-    "key": "ctrl+shift+alt+k",
+    "key": "ctrl+shift+alt+b",
     "command": "workbench.action.toggleAuxiliaryBar"
   },
   {
@@ -41,19 +41,19 @@
     "command": "editor.action.showDefinitionPreviewHover"
   },
   {
-    "key": "shift+j",
+    "key": "ctrl+shift+alt+j",
     "command": "workbench.action.terminal.resizePaneDown"
   },
   {
-    "key": "shift+h",
+    "key": "ctrl+shift+alt+h",
     "command": "workbench.action.terminal.resizePaneLeft"
   },
   {
-    "key": "shift+l",
+    "key": "ctrl+shift+alt+l",
     "command": "workbench.action.terminal.resizePaneRight"
   },
   {
-    "key": "shift+k",
+    "key": "ctrl+shift+alt+k",
     "command": "workbench.action.terminal.resizePaneUp"
   }
 ]
