@@ -3,10 +3,13 @@
     -> 'ctrl + p'
     -> 'ctrl + f4' (to close editor file)
     -> 'shift + f10' (to click mouse right click)
+    -> 'shift + up' (to zoom in)
+    -> 'shift + down' (to zoom out)
     *) Terminal
         -> search for `Terminal: select default profile`
         -> select the terminal as your choice to make it a default terminal
-        -> 'ctrl + Shift + `' (to open new terminal)
+        -> 'ctrl + Shift + `' (to open new terminal)\
+        -> `ctrl + Shift + C' (open exter on same directory)
         -> 'ctrl + pageup' (to open above terminal)
         -> 'ctrl + pagedown' (to open below terminal)
         -> 'ctrl + alt + pageup' (to scroll up terminal)
