@@ -1,10 +1,18 @@
 *) Default Shortcut key:
-    -> Press `CTRL+Shift+P` OR `F1`
-    -> 'ctrl + p'
+    -> Press `CTRL+Shift+P` OR `F1` (open command palette)
+    -> 'ctrl + p' (go to file)
+    -> 'ctrl + p & ctrl + g' (go to particular line)
     -> 'ctrl + f4' (to close editor file)
     -> 'shift + f10' (to click mouse right click)
     -> 'shift + up' (to zoom in)
     -> 'shift + down' (to zoom out)
+    -> 'ctrl + tab' (switch between opened file)
+    -> 'ctrl + shift + l' (to select all similar selected word/line/phrase/code)
+    -> 'ctrl + /' (toggle comment)
+    -> 'ctrl + shift + k' (to delete line)
+    -> 'ctrl + f' (open search bar)
+    -> (hover on function/variable/keyword) + 'f12' (show defination of that)
+
     *) Terminal
         -> search for `Terminal: select default profile`
         -> select the terminal as your choice to make it a default terminal
