@@ -1,0 +1,3 @@
+[submodule "Tutorial/Tutorial_Projects/vstodo"]
+	path = Tutorial/Tutorial_Projects/vstodo
+	url = https://github.com/roman-ojha/vscode-todo.git
