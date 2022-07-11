@@ -12,6 +12,8 @@
     -> 'ctrl + shift + k' (to delete line)
     -> 'ctrl + f' (open search bar)
     -> (hover on function/variable/keyword) + 'f12' (show defination of that)
+    -> 'ctrl + \' (split screen current file)
+    -> 'ctrl + <number_of_split_screen>' (switch between split screen)
 
     *) Terminal
         -> search for `Terminal: select default profile`
