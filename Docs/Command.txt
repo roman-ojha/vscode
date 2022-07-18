@@ -2,3 +2,4 @@
     -> code . (open current directory)
     -> code -r . (open current directory in same window with fresh new state)
     -> code -a . (open current directory in same vscode state)
+    -> test
