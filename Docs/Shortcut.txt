@@ -18,8 +18,11 @@
     *) Terminal
         -> search for `Terminal: select default profile`
         -> select the terminal as your choice to make it a default terminal
-        -> 'ctrl + Shift + `' (to open new terminal)\
-        -> `ctrl + Shift + C' (open exter on same directory)
+	    -> 'ctrl + `' (toggle terminal)
+        -> 'ctrl + Shift + `' (to open new terminal)
+        -> 'ctrl + shift + U' (toggle output terminal)
+        -> 'ctrl + shift + Y' (toggle debug console)
+        -> `ctrl + Shift + C' (open outside terminal on same directory)
         -> 'ctrl + pageup' (to open above terminal)
         -> 'ctrl + pagedown' (to open below terminal)
         -> 'ctrl + alt + pageup' (to scroll up terminal)
