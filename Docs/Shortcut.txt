@@ -1,19 +1,24 @@
 *) Default Shortcut key:
     -> Press `CTRL+Shift+P` OR `F1` (open command palette)
-    -> 'ctrl + p' (go to file)
-    -> 'ctrl + p & ctrl + g' (go to particular line)
-    -> 'ctrl + f4' (to close editor file)
     -> 'shift + f10' (to click mouse right click)
-    -> 'shift + up' (to zoom in)
-    -> 'shift + down' (to zoom out)
-    -> 'ctrl + tab' (switch between opened file)
-    -> 'ctrl + shift + l' (to select all similar selected word/line/phrase/code)
-    -> 'ctrl + /' (toggle comment)
-    -> 'ctrl + shift + k' (to delete line)
     -> 'ctrl + f' (open search bar)
     -> (hover on function/variable/keyword) + 'f12' (show defination of that)
-    -> 'ctrl + \' (split screen current file)
     -> 'ctrl + <number_of_split_screen>' (switch between split screen)
+
+    *) Editor
+        -> 'ctrl + p & ctrl + g' (go to particular line)
+        -> 'ctrl + f4' (to close editor file)
+        -> 'ctrl + \' (split screen current file)
+        -> 'ctrl + 1' (go to first group)
+        -> 'ctrl + 2' (go to second group)
+        -> 'ctrl + tab' (switch between current group files)
+        -> 'ctrl + p' (switch between current opened files & search workspace files)
+        -> 'ctrl + shift + l' (to select all similar selected word/line/phrase/code)
+        -> 'shift + up' (to zoom in)
+        -> 'shift + down' (to zoom out)
+        -> 'ctrl + /' (toggle comment)
+        -> 'ctrl + shift + k' (to delete line)
+        -> 'ctrl + t' (open currently closed file)
 
     *) Terminal
         -> search for `Terminal: select default profile`
@@ -35,3 +40,4 @@
         -> 'ctrl + shift + g' (switch to source control sidebar)
         -> 'ctrl + shift + d' (switch to debug sidebar)
         -> 'ctrl + shift + x' (switch to extension sidebar)
+        -> 'ctrl + alt + f' (collapse folders in explorer)
