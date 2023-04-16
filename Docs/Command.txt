@@ -1,4 +1,10 @@
 *) Terminal Command:
-    -> code . (open current directory)
-    -> code -r . (open current directory in same window with fresh new state)
-    -> code -a . (open current directory in same vscode state)
+    -> code (open new vscode windows)
+    -> code . (open vscode in current directory)
+    -> code -r . (open vscode current directory in same window with fresh new state)
+    -> code -a . (open vscode current directory in same vscode state)
+    
+*) For visual studio IDE:
+    -> start devenv (open visual studio window)
+    -> start devenv . (open visual studio in current directory)
+    -> start devenv <solution(.sln)_file> (open visual studio for given solution)
