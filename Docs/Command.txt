@@ -5,6 +5,7 @@
     -> code -a . (open vscode current directory in same vscode state)
     
 *) For visual studio IDE:
+    *> Devenv is available in 'C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\devenv.exe'
     -> start devenv (open visual studio window)
     -> start devenv . (open visual studio in current directory)
     -> start devenv <solution(.sln)_file> (open visual studio for given solution)
