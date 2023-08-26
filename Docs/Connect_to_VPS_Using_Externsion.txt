@@ -1,0 +1,12 @@
+=> Using Remote - SSH extension:
+    -> you can use 'config' file placed in '~/.ssh'
+        Host <host_name>
+          HostName <host_ip_address>
+          IdentityFile ~/.ssh/<file_name_of_ssh_key>.key
+          User <user_name>
+        
+        -> EX: ssh -i ~/.ssh/ssh-key-roman-linux-oracle.key opc@141.148.190.144
+            Host roman-linux
+              HostName 141.148.190.144
+              IdentityFile ~/.ssh/ssh-key-roman-linux-oracle.key
+              User opc
